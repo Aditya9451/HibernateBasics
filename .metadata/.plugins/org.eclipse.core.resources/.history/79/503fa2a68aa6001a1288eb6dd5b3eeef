@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.luv2code.hibernate.demo.entity;
+
+/**
+ * @author aditya raj
+ *
+ */
+public class InstructorDetail {
+
+}
